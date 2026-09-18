@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="VMapEdit.Cli/VMapEdit.Cli.csproj" />
+  <Project Path="VMapEdit.Tests/VMapEdit.Tests.csproj" />
+</Solution>
